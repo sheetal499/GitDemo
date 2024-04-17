@@ -1,3 +1,5 @@
 Hello Sheetal
 This is to inform you that
 Adding line after commit and push
+
+Changing after cloning the project
